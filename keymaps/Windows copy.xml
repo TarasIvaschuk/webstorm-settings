@@ -5,4 +5,7 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
 </keymap>
