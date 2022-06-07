@@ -27,4 +27,7 @@
     <option name="IS_ANIMATED_SCROLLING" value="false" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
+  <component name="JSEditorOptions">
+    <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
 </application>
